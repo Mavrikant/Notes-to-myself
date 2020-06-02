@@ -1,6 +1,6 @@
 ## Essentials
 ```
-apt-get install htop nload gimp net-tools git wireshark vlc build-essential unzip unrar
+apt-get install htop nload gimp net-tools git wireshark vlc build-essential unzip unrar astyle
 ```
 
 ### Chrome
