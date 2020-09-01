@@ -44,3 +44,8 @@ cd /usr/share/gnome-shell/extensions/
 sudo mv ubuntu-dock@ubuntu.com{,.bak}
 ```
 * Press `ALT + F2` and type `r` in the input to restart Gnome interface. 
+
+### Others
+```
+sudo apt install -y sqlitebrowser
+```
